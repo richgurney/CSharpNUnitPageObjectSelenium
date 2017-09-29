@@ -1,0 +1,12 @@
+/Users/Richard/Projects/pom.example/pom.example/obj/Debug/pom.example.csprojResolveAssemblyReference.cache
+/Users/Richard/Projects/pom.example/pom.example/obj/Debug/pom.example.csproj.CoreCompileInputs.cache
+/Users/Richard/Projects/pom.example/pom.example/bin/Debug/pom.example.dll
+/Users/Richard/Projects/pom.example/pom.example/bin/Debug/pom.example.pdb
+/Users/Richard/Projects/pom.example/pom.example/bin/Debug/nunit.framework.dll
+/Users/Richard/Projects/pom.example/pom.example/bin/Debug/WebDriver.dll
+/Users/Richard/Projects/pom.example/pom.example/bin/Debug/WebDriver.Support.dll
+/Users/Richard/Projects/pom.example/pom.example/bin/Debug/nunit.framework.xml
+/Users/Richard/Projects/pom.example/pom.example/bin/Debug/WebDriver.xml
+/Users/Richard/Projects/pom.example/pom.example/bin/Debug/WebDriver.Support.xml
+/Users/Richard/Projects/pom.example/pom.example/obj/Debug/pom.example.dll
+/Users/Richard/Projects/pom.example/pom.example/obj/Debug/pom.example.pdb
